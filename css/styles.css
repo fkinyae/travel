@@ -1,0 +1,22 @@
+.body {
+    font-family: fantasy;
+    text-align: center;
+    max-width: 70%;
+    background-color: burlywood;
+}
+.tropical {
+    color: #7dc410;  
+}
+h2.tropical {
+    color: #f7325e;
+}
+.popular {
+    color: #7dc410;
+}
+h2.popular {
+    font-size: 15px;
+    color: maroon;
+}
+.praslin {
+    max-width: 70%;
+}
